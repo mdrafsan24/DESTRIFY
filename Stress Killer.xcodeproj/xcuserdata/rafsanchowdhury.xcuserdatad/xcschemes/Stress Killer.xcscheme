@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "88E59D061DDCBF5D00CFBCC3"
-               BuildableName = "Stress Killer.app"
+               BuildableName = "Destrify.app"
                BlueprintName = "Stress Killer"
                ReferencedContainer = "container:Stress Killer.xcodeproj">
             </BuildableReference>
@@ -53,7 +53,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "88E59D061DDCBF5D00CFBCC3"
-            BuildableName = "Stress Killer.app"
+            BuildableName = "Destrify.app"
             BlueprintName = "Stress Killer"
             ReferencedContainer = "container:Stress Killer.xcodeproj">
          </BuildableReference>
@@ -76,7 +76,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "88E59D061DDCBF5D00CFBCC3"
-            BuildableName = "Stress Killer.app"
+            BuildableName = "Destrify.app"
             BlueprintName = "Stress Killer"
             ReferencedContainer = "container:Stress Killer.xcodeproj">
          </BuildableReference>
@@ -95,7 +95,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "88E59D061DDCBF5D00CFBCC3"
-            BuildableName = "Stress Killer.app"
+            BuildableName = "Destrify.app"
             BlueprintName = "Stress Killer"
             ReferencedContainer = "container:Stress Killer.xcodeproj">
          </BuildableReference>

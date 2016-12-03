@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		88536B0A1DEB6E94004E96D3 /* AddPostVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88536B091DEB6E94004E96D3 /* AddPostVC.swift */; };
+		88536B0C1DEB6EB4004E96D3 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88536B0B1DEB6EB4004E96D3 /* PostCell.swift */; };
+		88536B0E1DEB6EC2004E96D3 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88536B0D1DEB6EC2004E96D3 /* Post.swift */; };
+		88536B101DEB6ED1004E96D3 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88536B0F1DEB6ED1004E96D3 /* DataService.swift */; };
+		88536B121DEB7268004E96D3 /* PersonalDiaryVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88536B111DEB7268004E96D3 /* PersonalDiaryVC.swift */; };
+		888489BB1DF1F9FF00E4C7F7 /* excerciseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888489BA1DF1F9FF00E4C7F7 /* excerciseVC.swift */; };
+		888489BD1DF1FDB700E4C7F7 /* gifFramework.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888489BC1DF1FDB700E4C7F7 /* gifFramework.swift */; };
+		888489BF1DF1FE4300E4C7F7 /* breath.gif in Resources */ = {isa = PBXBuildFile; fileRef = 888489BE1DF1FE4300E4C7F7 /* breath.gif */; };
+		888489C11DF2193800E4C7F7 /* breathfold.gif in Resources */ = {isa = PBXBuildFile; fileRef = 888489C01DF2193800E4C7F7 /* breathfold.gif */; };
+		888489C51DF219B000E4C7F7 /* BreathFOLD(EX2).swift in Sources */ = {isa = PBXBuildFile; fileRef = 888489C41DF219B000E4C7F7 /* BreathFOLD(EX2).swift */; };
+		888489C71DF229C900E4C7F7 /* 123.gif in Resources */ = {isa = PBXBuildFile; fileRef = 888489C61DF229C800E4C7F7 /* 123.gif */; };
 		88E59D0B1DDCBF5D00CFBCC3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88E59D0A1DDCBF5D00CFBCC3 /* AppDelegate.swift */; };
 		88E59D0D1DDCBF5D00CFBCC3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88E59D0C1DDCBF5D00CFBCC3 /* ViewController.swift */; };
 		88E59D101DDCBF5D00CFBCC3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88E59D0E1DDCBF5D00CFBCC3 /* Main.storyboard */; };
@@ -14,6 +25,11 @@
 		88E59D151DDCBF5D00CFBCC3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88E59D131DDCBF5D00CFBCC3 /* LaunchScreen.storyboard */; };
 		88E59D201DDCBF5E00CFBCC3 /* Stress_KillerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88E59D1F1DDCBF5E00CFBCC3 /* Stress_KillerTests.swift */; };
 		88E59D2B1DDCBF5E00CFBCC3 /* Stress_KillerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88E59D2A1DDCBF5E00CFBCC3 /* Stress_KillerUITests.swift */; };
+		88E59D3B1DDE477C00CFBCC3 /* testStress.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88E59D3A1DDE477C00CFBCC3 /* testStress.swift */; };
+		88E59D3D1DDEAB1900CFBCC3 /* musicListen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88E59D3C1DDEAB1900CFBCC3 /* musicListen.swift */; };
+		88E59D3F1DDEADD000CFBCC3 /* MusicMan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 88E59D3E1DDEADD000CFBCC3 /* MusicMan.mp3 */; };
+		88E59D421DDEAEDA00CFBCC3 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88E59D411DDEAEDA00CFBCC3 /* AVFoundation.framework */; };
+		88E59D441DDEB5B100CFBCC3 /* laughOff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88E59D431DDEB5B000CFBCC3 /* laughOff.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,7 +50,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		88E59D071DDCBF5D00CFBCC3 /* Stress Killer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Stress Killer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		88536B091DEB6E94004E96D3 /* AddPostVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddPostVC.swift; sourceTree = "<group>"; };
+		88536B0B1DEB6EB4004E96D3 /* PostCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PostCell.swift; path = "/Users/rafsanchowdhury/Desktop/Another git test/Stress Killer/Stress Killer/PostCell.swift"; sourceTree = "<absolute>"; };
+		88536B0D1DEB6EC2004E96D3 /* Post.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
+		88536B0F1DEB6ED1004E96D3 /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		88536B111DEB7268004E96D3 /* PersonalDiaryVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonalDiaryVC.swift; sourceTree = "<group>"; };
+		888489BA1DF1F9FF00E4C7F7 /* excerciseVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = excerciseVC.swift; sourceTree = "<group>"; };
+		888489BC1DF1FDB700E4C7F7 /* gifFramework.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = gifFramework.swift; path = ../../../../Downloads/gifFramework.swift; sourceTree = "<group>"; };
+		888489BE1DF1FE4300E4C7F7 /* breath.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = breath.gif; path = ../../../Downloads/breath.gif; sourceTree = "<group>"; };
+		888489C01DF2193800E4C7F7 /* breathfold.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = breathfold.gif; path = ../../../Downloads/breathfold.gif; sourceTree = "<group>"; };
+		888489C41DF219B000E4C7F7 /* BreathFOLD(EX2).swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BreathFOLD(EX2).swift"; sourceTree = "<group>"; };
+		888489C61DF229C800E4C7F7 /* 123.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = 123.gif; path = ../../../Downloads/123.gif; sourceTree = "<group>"; };
+		88E59D071DDCBF5D00CFBCC3 /* Destrify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Destrify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88E59D0A1DDCBF5D00CFBCC3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		88E59D0C1DDCBF5D00CFBCC3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		88E59D0F1DDCBF5D00CFBCC3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -47,6 +74,11 @@
 		88E59D261DDCBF5E00CFBCC3 /* Stress KillerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Stress KillerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		88E59D2A1DDCBF5E00CFBCC3 /* Stress_KillerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stress_KillerUITests.swift; sourceTree = "<group>"; };
 		88E59D2C1DDCBF5E00CFBCC3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88E59D3A1DDE477C00CFBCC3 /* testStress.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = testStress.swift; sourceTree = "<group>"; };
+		88E59D3C1DDEAB1900CFBCC3 /* musicListen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = musicListen.swift; sourceTree = "<group>"; };
+		88E59D3E1DDEADD000CFBCC3 /* MusicMan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = MusicMan.mp3; sourceTree = "<group>"; };
+		88E59D411DDEAEDA00CFBCC3 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		88E59D431DDEB5B000CFBCC3 /* laughOff.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = laughOff.swift; path = ../laughOff.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +86,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88E59D421DDEAEDA00CFBCC3 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,20 +107,78 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		88536B021DEB6932004E96D3 /* PersonalDiary VC,Classes */ = {
+			isa = PBXGroup;
+			children = (
+				88536B081DEB6E4F004E96D3 /* Controller */,
+				88536B071DEB6E4A004E96D3 /* View */,
+				88536B061DEB6E44004E96D3 /* Model */,
+				88536B051DEB6E38004E96D3 /* Services */,
+			);
+			name = "PersonalDiary VC,Classes";
+			path = "Stress Killer";
+			sourceTree = "<group>";
+		};
+		88536B051DEB6E38004E96D3 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				88536B0F1DEB6ED1004E96D3 /* DataService.swift */,
+			);
+			name = Services;
+			sourceTree = "<group>";
+		};
+		88536B061DEB6E44004E96D3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				88536B0D1DEB6EC2004E96D3 /* Post.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		88536B071DEB6E4A004E96D3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				88536B0B1DEB6EB4004E96D3 /* PostCell.swift */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		88536B081DEB6E4F004E96D3 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				88536B111DEB7268004E96D3 /* PersonalDiaryVC.swift */,
+				88536B091DEB6E94004E96D3 /* AddPostVC.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		888489C31DF2197200E4C7F7 /* Excercise Techniques GIF's */ = {
+			isa = PBXGroup;
+			children = (
+				888489BE1DF1FE4300E4C7F7 /* breath.gif */,
+				888489C01DF2193800E4C7F7 /* breathfold.gif */,
+				888489C61DF229C800E4C7F7 /* 123.gif */,
+			);
+			name = "Excercise Techniques GIF's";
+			sourceTree = "<group>";
+		};
 		88E59CFE1DDCBF5D00CFBCC3 = {
 			isa = PBXGroup;
 			children = (
+				888489C31DF2197200E4C7F7 /* Excercise Techniques GIF's */,
+				88E59D411DDEAEDA00CFBCC3 /* AVFoundation.framework */,
 				88E59D091DDCBF5D00CFBCC3 /* Stress Killer */,
 				88E59D1E1DDCBF5E00CFBCC3 /* Stress KillerTests */,
 				88E59D291DDCBF5E00CFBCC3 /* Stress KillerUITests */,
 				88E59D081DDCBF5D00CFBCC3 /* Products */,
+				88536B021DEB6932004E96D3 /* PersonalDiary VC,Classes */,
 			);
 			sourceTree = "<group>";
 		};
 		88E59D081DDCBF5D00CFBCC3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				88E59D071DDCBF5D00CFBCC3 /* Stress Killer.app */,
+				88E59D071DDCBF5D00CFBCC3 /* Destrify.app */,
 				88E59D1B1DDCBF5E00CFBCC3 /* Stress KillerTests.xctest */,
 				88E59D261DDCBF5E00CFBCC3 /* Stress KillerUITests.xctest */,
 			);
@@ -97,12 +188,19 @@
 		88E59D091DDCBF5D00CFBCC3 /* Stress Killer */ = {
 			isa = PBXGroup;
 			children = (
+				888489BC1DF1FDB700E4C7F7 /* gifFramework.swift */,
 				88E59D0A1DDCBF5D00CFBCC3 /* AppDelegate.swift */,
 				88E59D0C1DDCBF5D00CFBCC3 /* ViewController.swift */,
 				88E59D0E1DDCBF5D00CFBCC3 /* Main.storyboard */,
 				88E59D111DDCBF5D00CFBCC3 /* Assets.xcassets */,
 				88E59D131DDCBF5D00CFBCC3 /* LaunchScreen.storyboard */,
 				88E59D161DDCBF5D00CFBCC3 /* Info.plist */,
+				88E59D3E1DDEADD000CFBCC3 /* MusicMan.mp3 */,
+				88E59D431DDEB5B000CFBCC3 /* laughOff.swift */,
+				88E59D3A1DDE477C00CFBCC3 /* testStress.swift */,
+				88E59D3C1DDEAB1900CFBCC3 /* musicListen.swift */,
+				888489BA1DF1F9FF00E4C7F7 /* excerciseVC.swift */,
+				888489C41DF219B000E4C7F7 /* BreathFOLD(EX2).swift */,
 			);
 			path = "Stress Killer";
 			sourceTree = "<group>";
@@ -142,7 +240,7 @@
 			);
 			name = "Stress Killer";
 			productName = "Stress Killer";
-			productReference = 88E59D071DDCBF5D00CFBCC3 /* Stress Killer.app */;
+			productReference = 88E59D071DDCBF5D00CFBCC3 /* Destrify.app */;
 			productType = "com.apple.product-type.application";
 		};
 		88E59D1A1DDCBF5E00CFBCC3 /* Stress KillerTests */ = {
@@ -230,8 +328,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				88E59D151DDCBF5D00CFBCC3 /* LaunchScreen.storyboard in Resources */,
+				888489C11DF2193800E4C7F7 /* breathfold.gif in Resources */,
+				88E59D3F1DDEADD000CFBCC3 /* MusicMan.mp3 in Resources */,
 				88E59D121DDCBF5D00CFBCC3 /* Assets.xcassets in Resources */,
+				888489C71DF229C900E4C7F7 /* 123.gif in Resources */,
 				88E59D101DDCBF5D00CFBCC3 /* Main.storyboard in Resources */,
+				888489BF1DF1FE4300E4C7F7 /* breath.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,8 +358,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88536B0A1DEB6E94004E96D3 /* AddPostVC.swift in Sources */,
+				888489BD1DF1FDB700E4C7F7 /* gifFramework.swift in Sources */,
+				88E59D3D1DDEAB1900CFBCC3 /* musicListen.swift in Sources */,
+				88E59D441DDEB5B100CFBCC3 /* laughOff.swift in Sources */,
 				88E59D0D1DDCBF5D00CFBCC3 /* ViewController.swift in Sources */,
 				88E59D0B1DDCBF5D00CFBCC3 /* AppDelegate.swift in Sources */,
+				888489C51DF219B000E4C7F7 /* BreathFOLD(EX2).swift in Sources */,
+				88536B0E1DEB6EC2004E96D3 /* Post.swift in Sources */,
+				888489BB1DF1F9FF00E4C7F7 /* excerciseVC.swift in Sources */,
+				88536B121DEB7268004E96D3 /* PersonalDiaryVC.swift in Sources */,
+				88E59D3B1DDE477C00CFBCC3 /* testStress.swift in Sources */,
+				88536B0C1DEB6EB4004E96D3 /* PostCell.swift in Sources */,
+				88536B101DEB6ED1004E96D3 /* DataService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -351,6 +464,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -389,6 +503,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -402,7 +517,8 @@
 				INFOPLIST_FILE = "Stress Killer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Mcraf.Stress-Killer";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Destrify;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -413,7 +529,8 @@
 				INFOPLIST_FILE = "Stress Killer/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Mcraf.Stress-Killer";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Destrify;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -484,6 +601,7 @@
 				88E59D311DDCBF5E00CFBCC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		88E59D321DDCBF5E00CFBCC3 /* Build configuration list for PBXNativeTarget "Stress KillerTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +610,7 @@
 				88E59D341DDCBF5E00CFBCC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		88E59D351DDCBF5E00CFBCC3 /* Build configuration list for PBXNativeTarget "Stress KillerUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +619,7 @@
 				88E59D371DDCBF5E00CFBCC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
